@@ -2,7 +2,7 @@
 import React from 'react';
 import Counter from './Components/Counter.jsx';
 import Todo from './Components/Todo.jsx';
-import Products from './components/Products.jsx';
+import Products from './Components/Products.jsx';
 import { ThemeProvider } from './context/ThemeContext.jsx'
 import { BrowserRouter , Route, Routes } from 'react-router-dom'
 import ProductDetailsPage from './page/ProductDetailsPage.jsx'
